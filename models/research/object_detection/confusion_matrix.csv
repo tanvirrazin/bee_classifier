@@ -1,0 +1,3 @@
+,category,precision_@0.5IOU,recall_@0.5IOU
+0,bumblebee,,
+1,not_bumblebee,1.0,1.0
