@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>Common_Carder_Bee_Bombus_pascuorum_7921.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\Common_Carder_Bee_Bombus_pascuorum_7921.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>302</ymin>
+			<xmax>453</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

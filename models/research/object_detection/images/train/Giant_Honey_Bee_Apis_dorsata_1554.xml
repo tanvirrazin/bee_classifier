@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>Giant_Honey_Bee_Apis_dorsata_1554.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\honeybee-20200522T031613Z-001\honeybee\Giant_Honey_Bee_Apis_dorsata_1554.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>668</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>172</ymin>
+			<xmax>827</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

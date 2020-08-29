@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Brown-winged_Long-horned_Bee_Melissodes_comptoides_204.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Brown-winged_Long-horned_Bee_Melissodes_comptoides_204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>926</width>
+		<height>613</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>60</ymin>
+			<xmax>733</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

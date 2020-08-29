@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Centris__25.jpg</filename>
+	<path>/media/mhealth-3/Workspace/Farhat_Workstation/USF/data/centris/Centris__25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>854</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>460</ymin>
+			<xmax>467</xmax>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

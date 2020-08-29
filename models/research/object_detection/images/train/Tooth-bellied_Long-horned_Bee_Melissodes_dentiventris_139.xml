@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Tooth-bellied_Long-horned_Bee_Melissodes_dentiventris_139.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Tooth-bellied_Long-horned_Bee_Melissodes_dentiventris_139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>157</ymin>
+			<xmax>596</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

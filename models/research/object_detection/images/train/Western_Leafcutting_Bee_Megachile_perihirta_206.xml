@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Western_Leafcutting_Bee_Megachile_perihirta_206.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Western_Leafcutting_Bee_Megachile_perihirta_206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>892</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>276</ymin>
+			<xmax>700</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>

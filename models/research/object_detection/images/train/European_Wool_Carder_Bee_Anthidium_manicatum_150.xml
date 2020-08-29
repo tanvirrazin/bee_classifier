@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anthidium</folder>
+	<filename>European_Wool_Carder_Bee_Anthidium_manicatum_150.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\anthidium\European_Wool_Carder_Bee_Anthidium_manicatum_150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthidium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>529</ymin>
+			<xmax>512</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

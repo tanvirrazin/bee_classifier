@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Centris_tricolor__181.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\centris\Centris_tricolor__181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>206</ymin>
+			<xmax>588</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

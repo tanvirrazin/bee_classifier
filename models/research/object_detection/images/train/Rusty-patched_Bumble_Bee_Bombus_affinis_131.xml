@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rustybee</folder>
+	<filename>Rusty-patched_Bumble_Bee_Bombus_affinis_131.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\rustybee\Rusty-patched_Bumble_Bee_Bombus_affinis_131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rustybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>210</ymin>
+			<xmax>277</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

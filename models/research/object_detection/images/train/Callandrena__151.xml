@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Callandrena__151.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Callandrena__151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>288</ymin>
+			<xmax>484</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

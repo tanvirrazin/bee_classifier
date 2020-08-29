@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Chocolate_Mining_Bee_Andrena_scotica_125.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Chocolate_Mining_Bee_Andrena_scotica_125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>446</ymin>
+			<xmax>677</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

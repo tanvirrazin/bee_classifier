@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Alfalfa_Leafcutter_Bee_Megachile_rotundata_101.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Alfalfa_Leafcutter_Bee_Megachile_rotundata_101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>630</width>
+		<height>588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>139</ymin>
+			<xmax>380</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

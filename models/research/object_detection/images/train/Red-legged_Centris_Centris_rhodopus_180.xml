@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Red-legged_Centris_Centris_rhodopus_180.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\centris\Red-legged_Centris_Centris_rhodopus_180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>524</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>140</ymin>
+			<xmax>378</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

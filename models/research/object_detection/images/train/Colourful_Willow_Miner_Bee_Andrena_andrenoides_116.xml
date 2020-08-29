@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Colourful_Willow_Miner_Bee_Andrena_andrenoides_116.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Colourful_Willow_Miner_Bee_Andrena_andrenoides_116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>444</ymin>
+			<xmax>607</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Clark_s_Mining_Bee_Andrena_clarkella_152.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Clark_s_Mining_Bee_Andrena_clarkella_152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>199</ymin>
+			<xmax>495</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+</annotation>

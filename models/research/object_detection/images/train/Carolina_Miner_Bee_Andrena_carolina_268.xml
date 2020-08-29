@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Carolina_Miner_Bee_Andrena_carolina_268.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Carolina_Miner_Bee_Andrena_carolina_268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>252</ymin>
+			<xmax>647</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

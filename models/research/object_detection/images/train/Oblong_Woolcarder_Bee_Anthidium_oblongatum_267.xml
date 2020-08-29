@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anthidium</folder>
+	<filename>Oblong_Woolcarder_Bee_Anthidium_oblongatum_267.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\anthidium\Oblong_Woolcarder_Bee_Anthidium_oblongatum_267.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthidium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>284</ymin>
+			<xmax>759</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

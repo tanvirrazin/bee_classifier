@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>African_Honey_Bee_Apis_mellifera_scutellata_7251.jpg</filename>
+	<path>/media/mhealth-3/Workspace/Farhat_Workstation/USF/data/honeybee/African_Honey_Bee_Apis_mellifera_scutellata_7251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>472</ymin>
+			<xmax>349</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Black-and-gray_Leafcutter_Bee_Megachile_melanophaea_196.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Black-and-gray_Leafcutter_Bee_Megachile_melanophaea_196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>109</ymin>
+			<xmax>539</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Aster_Mining_Bee_Andrena_asteris_230.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Aster_Mining_Bee_Andrena_asteris_230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>606</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>248</ymin>
+			<xmax>636</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

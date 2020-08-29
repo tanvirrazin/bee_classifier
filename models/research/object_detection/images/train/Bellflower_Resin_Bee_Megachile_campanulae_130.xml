@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Bellflower_Resin_Bee_Megachile_campanulae_130.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Bellflower_Resin_Bee_Megachile_campanulae_130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>442</ymin>
+			<xmax>480</xmax>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Centris_aethyctera__194.jpg</filename>
+	<path>/media/mhealth-3/Workspace/Farhat_Workstation/USF/data/centris/Centris_aethyctera__194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>927</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>30</ymin>
+			<xmax>827</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>

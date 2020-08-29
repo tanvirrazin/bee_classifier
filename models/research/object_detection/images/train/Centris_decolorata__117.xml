@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Centris_decolorata__117.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\centris\Centris_decolorata__117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>539</ymin>
+			<xmax>507</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+</annotation>

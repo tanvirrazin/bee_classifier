@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>Cape_Honey_Bee_Apis_mellifera_capensis_1668.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\honeybee\Cape_Honey_Bee_Apis_mellifera_capensis_1668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>644</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>76</ymin>
+			<xmax>746</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>

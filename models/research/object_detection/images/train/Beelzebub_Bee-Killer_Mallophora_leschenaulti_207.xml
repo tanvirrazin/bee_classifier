@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mallophora</folder>
+	<filename>Beelzebub_Bee-Killer_Mallophora_leschenaulti_207.jpg</filename>
+	<path>/Users/razin/Desktop/malloph/mallophora/Beelzebub_Bee-Killer_Mallophora_leschenaulti_207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>788</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mallophora</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>317</ymin>
+			<xmax>788</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

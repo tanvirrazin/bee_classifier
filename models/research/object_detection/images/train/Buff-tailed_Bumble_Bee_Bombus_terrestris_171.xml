@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>Buff-tailed_Bumble_Bee_Bombus_terrestris_171.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\Buff-tailed_Bumble_Bee_Bombus_terrestris_171.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>230</ymin>
+			<xmax>761</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+</annotation>

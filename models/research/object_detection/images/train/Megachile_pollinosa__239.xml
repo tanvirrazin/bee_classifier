@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Megachile_pollinosa__239.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Megachile_pollinosa__239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>93</ymin>
+			<xmax>775</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

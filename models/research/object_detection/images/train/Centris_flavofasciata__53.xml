@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Centris_flavofasciata__53.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\centris\Centris_flavofasciata__53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>350</ymin>
+			<xmax>425</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

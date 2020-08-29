@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Patchwork_Leafcutter_Bee_Megachile_centuncularis_241.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Patchwork_Leafcutter_Bee_Megachile_centuncularis_241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>764</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>166</ymin>
+			<xmax>475</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>

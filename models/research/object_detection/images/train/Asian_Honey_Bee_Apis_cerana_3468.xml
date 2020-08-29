@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>Asian_Honey_Bee_Apis_cerana_3468.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\honeybee\Asian_Honey_Bee_Apis_cerana_3468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>236</ymin>
+			<xmax>674</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>

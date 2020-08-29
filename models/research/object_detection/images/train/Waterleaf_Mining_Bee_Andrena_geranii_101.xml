@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andrena_images</folder>
+	<filename>Waterleaf_Mining_Bee_Andrena_geranii_101.jpg</filename>
+	<path>/Users/razin/Downloads/andrena_images/Waterleaf_Mining_Bee_Andrena_geranii_101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>346</ymin>
+			<xmax>596</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

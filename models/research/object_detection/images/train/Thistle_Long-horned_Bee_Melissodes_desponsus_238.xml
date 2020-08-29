@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Thistle_Long-horned_Bee_Melissodes_desponsus_238.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Thistle_Long-horned_Bee_Melissodes_desponsus_238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>819</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>86</ymin>
+			<xmax>767</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

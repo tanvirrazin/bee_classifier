@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>Asian_Honey_Bee_Apis_cerana_1262.jpg</filename>
+	<path>/media/mhealth-3/Workspace/Farhat_Workstation/USF/data/honeybee/Asian_Honey_Bee_Apis_cerana_1262.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>130</ymin>
+			<xmax>806</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

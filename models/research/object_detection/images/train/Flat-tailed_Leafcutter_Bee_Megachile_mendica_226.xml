@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Flat-tailed_Leafcutter_Bee_Megachile_mendica_226.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Flat-tailed_Leafcutter_Bee_Megachile_mendica_226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>105</ymin>
+			<xmax>602</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+</annotation>

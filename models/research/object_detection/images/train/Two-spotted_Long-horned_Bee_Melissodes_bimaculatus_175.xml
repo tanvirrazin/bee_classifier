@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Two-spotted_Long-horned_Bee_Melissodes_bimaculatus_175.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Two-spotted_Long-horned_Bee_Melissodes_bimaculatus_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>706</width>
+		<height>706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>154</ymin>
+			<xmax>692</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

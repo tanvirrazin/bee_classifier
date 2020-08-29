@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mallophora</folder>
+	<filename>Mallophora_fautrix__174.jpg</filename>
+	<path>/Users/razin/Desktop/malloph/mallophora/Mallophora_fautrix__174.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mallophora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>360</ymin>
+			<xmax>921</xmax>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+</annotation>

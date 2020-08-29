@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Megachile_pugnata_pugnata__285.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Megachile_pugnata_pugnata__285.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>63</ymin>
+			<xmax>811</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

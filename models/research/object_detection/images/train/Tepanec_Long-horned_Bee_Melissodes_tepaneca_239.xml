@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Tepanec_Long-horned_Bee_Melissodes_tepaneca_239.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Tepanec_Long-horned_Bee_Melissodes_tepaneca_239.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>311</ymin>
+			<xmax>809</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+</annotation>

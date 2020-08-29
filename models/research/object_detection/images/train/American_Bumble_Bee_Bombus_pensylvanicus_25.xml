@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>American_Bumble_Bee_Bombus_pensylvanicus_25.jpg</filename>
+	<path>/media/mhealth-3/Workspace/Farhat_Workstation/USF/data/bumblebee/American_Bumble_Bee_Bombus_pensylvanicus_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>266</ymin>
+			<xmax>651</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

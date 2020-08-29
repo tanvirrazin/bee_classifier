@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anthidium</folder>
+	<filename>Anthidium_florentinum__125.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\anthidium\Anthidium_florentinum__125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>902</width>
+		<height>902</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthidium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>283</xmin>
+			<ymin>252</ymin>
+			<xmax>839</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

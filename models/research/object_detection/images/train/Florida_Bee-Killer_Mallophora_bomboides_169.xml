@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mallophora</folder>
+	<filename>Florida_Bee-Killer_Mallophora_bomboides_169.jpg</filename>
+	<path>/Users/razin/Desktop/malloph/mallophora/Florida_Bee-Killer_Mallophora_bomboides_169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mallophora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>198</ymin>
+			<xmax>658</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

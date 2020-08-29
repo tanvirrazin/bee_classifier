@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Eumelissodes__108.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Eumelissodes__108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1002</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>316</ymin>
+			<xmax>776</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

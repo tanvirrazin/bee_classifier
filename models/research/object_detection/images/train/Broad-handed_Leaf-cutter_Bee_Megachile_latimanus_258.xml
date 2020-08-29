@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Broad-handed_Leaf-cutter_Bee_Megachile_latimanus_258.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Broad-handed_Leaf-cutter_Bee_Megachile_latimanus_258.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>420</ymin>
+			<xmax>456</xmax>
+			<ymax>655</ymax>
+		</bndbox>
+	</object>
+</annotation>

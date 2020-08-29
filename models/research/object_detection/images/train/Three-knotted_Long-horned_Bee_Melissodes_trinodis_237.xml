@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Three-knotted_Long-horned_Bee_Melissodes_trinodis_237.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Three-knotted_Long-horned_Bee_Melissodes_trinodis_237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>378</ymin>
+			<xmax>456</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>

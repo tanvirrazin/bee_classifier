@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mallophora</folder>
+	<filename>Southern_Bee-Killer_Mallophora_orcina_151.jpg</filename>
+	<path>/Users/razin/Desktop/malloph/mallophora/Southern_Bee-Killer_Mallophora_orcina_151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>532</width>
+		<height>563</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mallophora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>147</ymin>
+			<xmax>376</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>

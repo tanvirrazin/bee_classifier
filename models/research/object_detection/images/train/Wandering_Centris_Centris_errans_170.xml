@@ -1,0 +1,26 @@
+<annotation>
+	<folder>centris</folder>
+	<filename>Wandering_Centris_Centris_errans_170.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\centris\Wandering_Centris_Centris_errans_170.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>974</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>250</ymin>
+			<xmax>763</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+</annotation>

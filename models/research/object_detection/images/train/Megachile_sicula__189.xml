@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Megachile_sicula__189.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Megachile_sicula__189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>604</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>99</ymin>
+			<xmax>477</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+</annotation>

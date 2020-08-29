@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andrena_images</folder>
+	<filename>Milwaukee_Mining_Bee_Andrena_milwaukeensis_280.jpg</filename>
+	<path>/Users/razin/Downloads/andrena_images/Milwaukee_Mining_Bee_Andrena_milwaukeensis_280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>309</ymin>
+			<xmax>642</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

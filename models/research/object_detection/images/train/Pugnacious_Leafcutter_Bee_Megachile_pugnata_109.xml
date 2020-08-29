@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Pugnacious_Leafcutter_Bee_Megachile_pugnata_109.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Pugnacious_Leafcutter_Bee_Megachile_pugnata_109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>188</ymin>
+			<xmax>627</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

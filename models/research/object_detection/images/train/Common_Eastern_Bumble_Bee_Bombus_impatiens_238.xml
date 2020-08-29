@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>Common_Eastern_Bumble_Bee_Bombus_impatiens_238.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\Common_Eastern_Bumble_Bee_Bombus_impatiens_238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>281</ymin>
+			<xmax>806</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

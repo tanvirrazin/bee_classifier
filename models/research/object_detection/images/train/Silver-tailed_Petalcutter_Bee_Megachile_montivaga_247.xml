@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Silver-tailed_Petalcutter_Bee_Megachile_montivaga_247.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Silver-tailed_Petalcutter_Bee_Megachile_montivaga_247.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>51</ymin>
+			<xmax>405</xmax>
+			<ymax>381</ymax>
+		</bndbox>
+	</object>
+</annotation>

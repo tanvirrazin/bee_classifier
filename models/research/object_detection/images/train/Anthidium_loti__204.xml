@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anthidium</folder>
+	<filename>Anthidium_loti__204.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\anthidium\Anthidium_loti__204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthidium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>98</ymin>
+			<xmax>747</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Allegheny_Mining_Bee_Andrena_alleghaniensis_105.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Allegheny_Mining_Bee_Andrena_alleghaniensis_105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>465</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>45</ymin>
+			<xmax>363</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

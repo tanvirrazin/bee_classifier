@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumble_bee</folder>
+	<filename>American_Bumble_Bee_Bombus_pensylvanicus_1076.jpg</filename>
+	<path>/Users/razin/Documents/py_practice/data_science_p3.6/bee_data/bumble_bee/American_Bumble_Bee_Bombus_pensylvanicus_1076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>943</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumble_bee</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>242</ymin>
+			<xmax>943</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+</annotation>
