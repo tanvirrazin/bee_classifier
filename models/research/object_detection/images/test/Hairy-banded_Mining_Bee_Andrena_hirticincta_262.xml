@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andrena_images</folder>
+	<filename>Hairy-banded_Mining_Bee_Andrena_hirticincta_262.jpg</filename>
+	<path>/Users/razin/Downloads/andrena_images/Hairy-banded_Mining_Bee_Andrena_hirticincta_262.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>92</ymin>
+			<xmax>626</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Early_Mining_Bee_Andrena_haemorrhoa_265.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Early_Mining_Bee_Andrena_haemorrhoa_265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>44</ymin>
+			<xmax>644</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

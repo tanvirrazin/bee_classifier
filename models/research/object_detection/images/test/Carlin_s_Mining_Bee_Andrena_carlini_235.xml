@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Carlin_s_Mining_Bee_Andrena_carlini_235.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Carlin_s_Mining_Bee_Andrena_carlini_235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>150</ymin>
+			<xmax>571</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

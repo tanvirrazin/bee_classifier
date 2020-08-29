@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pics</folder>
+	<filename>Centris_adani__219.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\Extracted_Files\centris\pics\Centris_adani__219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>309</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>centris</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>49</ymin>
+			<xmax>255</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

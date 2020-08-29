@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>Brown-belted_Bumble_Bee_Bombus_griseocollis_4566.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\Brown-belted_Bumble_Bee_Bombus_griseocollis_4566.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>123</ymin>
+			<xmax>590</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

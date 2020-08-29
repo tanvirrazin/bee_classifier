@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>Black-tailed_Bumble_Bee_Bombus_melanopygus_8788.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\Black-tailed_Bumble_Bee_Bombus_melanopygus_8788.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>608</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>171</ymin>
+			<xmax>489</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

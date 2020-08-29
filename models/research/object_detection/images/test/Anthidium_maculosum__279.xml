@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anthidium</folder>
+	<filename>Anthidium_maculosum__279.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\anthidium\Anthidium_maculosum__279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anthidium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>163</ymin>
+			<xmax>560</xmax>
+			<ymax>347</ymax>
+		</bndbox>
+	</object>
+</annotation>

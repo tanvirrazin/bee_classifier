@@ -1,0 +1,26 @@
+<annotation>
+	<folder>honeybee</folder>
+	<filename>Red_Dwarf_Honey_Bee_Apis_florea_1471.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\honeybee-20200522T031613Z-001\honeybee\Red_Dwarf_Honey_Bee_Apis_florea_1471.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>honeybee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>684</ymin>
+			<xmax>359</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

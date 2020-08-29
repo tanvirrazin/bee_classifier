@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Petulant_Leaf-cutter_Bee_Megachile_petulans_151.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Petulant_Leaf-cutter_Bee_Megachile_petulans_151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>156</ymin>
+			<xmax>767</xmax>
+			<ymax>917</ymax>
+		</bndbox>
+	</object>
+</annotation>

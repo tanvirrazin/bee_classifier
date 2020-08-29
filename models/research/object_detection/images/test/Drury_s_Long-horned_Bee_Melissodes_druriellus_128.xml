@@ -1,0 +1,26 @@
+<annotation>
+	<folder>melissodes</folder>
+	<filename>Drury's_Long-horned_Bee_Melissodes_druriellus_128.jpg</filename>
+	<path>/Users/razin/Desktop/melissodes/Drury's_Long-horned_Bee_Melissodes_druriellus_128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>724</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melissodes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>145</ymin>
+			<xmax>520</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

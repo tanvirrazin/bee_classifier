@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andrena_images</folder>
+	<filename>Yellow-legged_Mining_Bee_Andrena_flavipes_211.jpg</filename>
+	<path>/Users/razin/Downloads/andrena_images/Yellow-legged_Mining_Bee_Andrena_flavipes_211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>58</ymin>
+			<xmax>479</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

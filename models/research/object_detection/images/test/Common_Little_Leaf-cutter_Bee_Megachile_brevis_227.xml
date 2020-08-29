@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Common_Little_Leaf-cutter_Bee_Megachile_brevis_227.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Common_Little_Leaf-cutter_Bee_Megachile_brevis_227.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>773</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>172</ymin>
+			<xmax>688</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+</annotation>

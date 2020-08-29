@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Horn-faced_Leaf-cutter_Bee_Megachile_fidelis_209.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Horn-faced_Leaf-cutter_Bee_Megachile_fidelis_209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>817</width>
+		<height>645</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>4</ymin>
+			<xmax>563</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

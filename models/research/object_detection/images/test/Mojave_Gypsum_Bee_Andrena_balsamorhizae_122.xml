@@ -1,0 +1,26 @@
+<annotation>
+	<folder>andrena_images</folder>
+	<filename>Mojave_Gypsum_Bee_Andrena_balsamorhizae_122.jpg</filename>
+	<path>/Users/razin/Downloads/andrena_images/Mojave_Gypsum_Bee_Andrena_balsamorhizae_122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>278</ymin>
+			<xmax>538</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

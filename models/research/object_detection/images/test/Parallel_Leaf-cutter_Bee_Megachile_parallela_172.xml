@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Parallel_Leaf-cutter_Bee_Megachile_parallela_172.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Parallel_Leaf-cutter_Bee_Megachile_parallela_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>974</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>240</ymin>
+			<xmax>932</xmax>
+			<ymax>751</ymax>
+		</bndbox>
+	</object>
+</annotation>

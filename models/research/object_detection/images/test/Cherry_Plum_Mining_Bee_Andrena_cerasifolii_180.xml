@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Andrena</folder>
+	<filename>Cherry_Plum_Mining_Bee_Andrena_cerasifolii_180.jpg</filename>
+	<path>C:\Users\siddh\Documents\BEES\Andrena\Cherry_Plum_Mining_Bee_Andrena_cerasifolii_180.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>757</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>andrena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>199</ymin>
+			<xmax>683</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

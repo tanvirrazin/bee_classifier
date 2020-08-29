@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Carpenter-mimic_Leafcutter_Bee_Megachile_xylocopoides_111.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Carpenter-mimic_Leafcutter_Bee_Megachile_xylocopoides_111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>772</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>173</ymin>
+			<xmax>637</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>

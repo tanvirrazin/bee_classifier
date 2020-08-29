@@ -1,0 +1,26 @@
+<annotation>
+	<folder>megachile</folder>
+	<filename>Sculptured_Resin_Bee_Megachile_sculpturalis_208.jpg</filename>
+	<path>/Users/razin/Desktop/megachile/megachile/Sculptured_Resin_Bee_Megachile_sculpturalis_208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>megachile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>444</ymin>
+			<xmax>491</xmax>
+			<ymax>671</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bumblebee</folder>
+	<filename>American_Bumble_Bee_Bombus_pensylvanicus_5642.jpg</filename>
+	<path>C:\USF\USF_Bees\data\bee_images\bumblebee\American_Bumble_Bee_Bombus_pensylvanicus_5642.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>914</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>38</ymin>
+			<xmax>866</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>
