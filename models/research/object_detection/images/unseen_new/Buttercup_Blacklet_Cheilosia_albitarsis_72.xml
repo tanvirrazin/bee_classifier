@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_new</folder>
+	<filename>Buttercup_Blacklet_Cheilosia_albitarsis_72.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_new/Buttercup_Blacklet_Cheilosia_albitarsis_72.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>785</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>46</ymin>
+			<xmax>656</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

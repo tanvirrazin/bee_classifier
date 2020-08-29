@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_new</folder>
+	<filename>Oblong_Woolcarder_Bee_Anthidium_oblongatum_11.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_new/Oblong_Woolcarder_Bee_Anthidium_oblongatum_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>697</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>54</ymin>
+			<xmax>567</xmax>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+</annotation>

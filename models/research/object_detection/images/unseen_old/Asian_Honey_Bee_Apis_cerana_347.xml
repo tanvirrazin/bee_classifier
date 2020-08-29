@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_old</folder>
+	<filename>Asian_Honey_Bee_Apis_cerana_347.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/Asian_Honey_Bee_Apis_cerana_347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>684</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>285</ymin>
+			<xmax>551</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

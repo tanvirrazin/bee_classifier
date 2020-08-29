@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>unseen_old</folder>
+	<filename>Wandering_Centris_Centris_errans_139.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/Wandering_Centris_Centris_errans_139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>779</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>363</ymin>
+			<xmax>663</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

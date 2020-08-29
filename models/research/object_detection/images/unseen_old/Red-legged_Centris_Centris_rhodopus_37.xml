@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_old</folder>
+	<filename>Red-legged_Centris_Centris_rhodopus_37.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/Red-legged_Centris_Centris_rhodopus_37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>686</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>231</ymin>
+			<xmax>579</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

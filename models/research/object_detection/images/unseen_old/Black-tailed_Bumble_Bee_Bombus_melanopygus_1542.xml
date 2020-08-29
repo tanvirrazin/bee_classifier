@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_old</folder>
+	<filename>Black-tailed_Bumble_Bee_Bombus_melanopygus_1542.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/Black-tailed_Bumble_Bee_Bombus_melanopygus_1542.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>333</ymin>
+			<xmax>592</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+</annotation>

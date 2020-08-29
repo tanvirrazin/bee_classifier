@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_old</folder>
+	<filename>American_Bumble_Bee_Bombus_pensylvanicus_1358.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/American_Bumble_Bee_Bombus_pensylvanicus_1358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>169</ymin>
+			<xmax>475</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

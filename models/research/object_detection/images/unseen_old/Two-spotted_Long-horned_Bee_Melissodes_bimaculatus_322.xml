@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_old</folder>
+	<filename>Two-spotted_Long-horned_Bee_Melissodes_bimaculatus_322.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_old/Two-spotted_Long-horned_Bee_Melissodes_bimaculatus_322.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>938</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>193</ymin>
+			<xmax>551</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+</annotation>

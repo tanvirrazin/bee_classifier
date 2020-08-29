@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_new</folder>
+	<filename>Andrena_carantonica__454.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_new/Andrena_carantonica__454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>78</ymin>
+			<xmax>944</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_new</folder>
+	<filename>Southern_Bee-Killer_Mallophora_orcina_907.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_new/Southern_Bee-Killer_Mallophora_orcina_907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>827</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>not_bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>274</ymin>
+			<xmax>759</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

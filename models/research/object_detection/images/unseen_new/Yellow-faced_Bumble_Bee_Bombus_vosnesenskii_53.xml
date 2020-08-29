@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unseen_new</folder>
+	<filename>Yellow-faced_Bumble_Bee_Bombus_vosnesenskii_53.jpg</filename>
+	<path>/Users/razin/Documents/SCoRe_Lab/bee_data/latest_bumblebee_or_not/unseen_new/Yellow-faced_Bumble_Bee_Bombus_vosnesenskii_53.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bumblebee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>506</ymin>
+			<xmax>467</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>
