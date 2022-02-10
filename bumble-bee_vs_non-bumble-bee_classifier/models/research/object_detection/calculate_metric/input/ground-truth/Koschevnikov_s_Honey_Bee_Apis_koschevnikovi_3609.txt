@@ -1,0 +1,3 @@
+not_bumblebee 397 540 768 835
+not_bumblebee 1 501 369 817
+not_bumblebee 52 171 431 508
